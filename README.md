@@ -28,7 +28,7 @@ Example:
 ## How to Running
 Clone this repo
 ```
-https://github.com/Aethereal-Collective/teneo
+git clone https://github.com/Aethereal-Collective/teneo
 ```
 Install Dependencies
 ```
