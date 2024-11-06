@@ -6,6 +6,7 @@ All risks are borne by the user.
 
 # Registration
 Download this [extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm) first
+
 Signup and Use Referral Code: `Pdzvm` to get 2.500 Extra Teneo Points.
 
 ## About Proxy
