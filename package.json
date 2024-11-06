@@ -1,0 +1,22 @@
+{
+  "name": "teneo-node-cli",
+  "version": "1.0.0",
+  "description": "Automatic farm Teneo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teneo",
+    "extension"
+  ],
+  "author": "aethereal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2",
+    "https-proxy-agent": "^5.0.0",
+    "ws": "^8.0.0"
+  },
+  "homepage": "https://discord.gg/aetherealco"
+}
